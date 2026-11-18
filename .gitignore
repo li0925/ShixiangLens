@@ -1,0 +1,12 @@
+.venv/
+.venv-latest/
+__pycache__/
+*.py[cod]
+build/
+dist/
+wheels/
+*.log
+.env
+.env.*
+!.env.example
+verification*/

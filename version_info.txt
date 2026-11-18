@@ -1,0 +1,12 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(filevers=(4,1,0,0), prodvers=(4,1,0,0),
+    mask=0x3f, flags=0x0, OS=0x40004, fileType=0x1, subtype=0x0, date=(0,0)),
+  kids=[StringFileInfo([StringTable('080404B0',[
+    StringStruct('CompanyName','空天遥感数学交叉技术创新中心'),
+    StringStruct('FileDescription','拾像 Lens · 截图、标注、识字'),
+    StringStruct('FileVersion','4.1.0'),
+    StringStruct('InternalName','ShixiangLens'),
+    StringStruct('OriginalFilename','拾像 Lens.exe'),
+    StringStruct('ProductName','拾像 Lens'),
+    StringStruct('ProductVersion','4.1.0')])]),
+    VarFileInfo([VarStruct('Translation',[2052,1200])])])
